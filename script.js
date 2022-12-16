@@ -30,5 +30,4 @@ res.end();
 
 server.listen(425, () => {
 console.log('Server listening on port 425');
-console.log('I love you Dr. Arhum Sultana');
 });
